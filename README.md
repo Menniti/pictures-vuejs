@@ -6,7 +6,7 @@
 
 <div>
 <img height=200px width=200px src='https://vuejs.org/images/logo.png' >
-<img height=200px width=200px src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png">
+<img height=200px width=400px src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png">
 </div>
 ## Build Setup
 
